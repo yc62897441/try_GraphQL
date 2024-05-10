@@ -14,7 +14,6 @@ function AnotherPage() {
             <h1>AnotherPage</h1>
             <Link to="/">HomePage</Link>
             <Link to="/UseQueryPage">UseQueryPage</Link>
-
         </main>
     )
 }
